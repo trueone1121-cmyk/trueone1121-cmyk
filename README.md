@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi I'm Deontae Coleman
 
-<!--
-**trueone1121-cmyk/trueone1121-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me:
+I'm a full-stack developer focused on building web application with the latest tools and technology.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials:
+Linkedin 
+
+# 💻 Tech Stack:
+JavaScript, TypeScript, Vercel, Bootstrap, NPM, TailwindCSS, Next JS, NodeJS, React, MySQL.
+
+# Certifications:
+
+COITB HTML/CSS
+COITB JavaScript
+COITB MySQL
+COITB React
